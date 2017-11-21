@@ -1,0 +1,8 @@
+Erst Unity project erstellen!
+
+Edit-> Editor
+
+-> Asset Serialization -> force text
+
+
+erstelle -> .gitkeep
